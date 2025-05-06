@@ -1,5 +1,5 @@
 
-# 🏥 Healthcare Predictive Analytics Project
+# 🏥 Weqaya
 
 ## 📌 Overview
 This project aims to improve healthcare outcomes by leveraging **predictive analytics** to provide **data-driven insights** for healthcare professionals. We developed **three machine learning models** to predict patient risk for:

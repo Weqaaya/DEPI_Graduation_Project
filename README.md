@@ -28,18 +28,18 @@ Each dataset includes patient health metrics such as age, gender, medical histor
 Our team of six collaborated in pairs, with each pair focusing on one specific predictive model:
 
 - **Hypertension Prediction Model**  
-  - **[Alaa Rehab]**  
-  - **[Ayman Ashraf]**  
+  - **Alaa Rehab**  
+  - **Ayman Ashraf**  
   *Responsibilities:* Data preprocessing, model training & evaluation, visualization, and documentation for the hypertension dataset.
 
 - **Stroke Prediction Model**  
-  - **[Hager Ibrahim]**  
-  - **[Ahmed Mohammed]**  
+  - **Hager Ibrahim**  
+  - **Ahmed Mohammed**  
   *Responsibilities:* Data cleaning, EDA, model selection & optimization, deployment of stroke prediction API.
 
 - **Diabetes Prediction Model**  
-  - **[Abdelrahman Aboraya]**  
-  - **[Mazin Atif]**  
+  - **Abdelrahman Aboraya**  
+  - **Mazin Atif**  
   *Responsibilities:* Data analysis, model development, MLOps integration, performance reporting for the diabetes model.
 
 ---
@@ -94,7 +94,7 @@ Our team of six collaborated in pairs, with each pair focusing on one specific p
 ### ⚙️ Milestone 4: MLOps, Deployment, and Monitoring
 
 - **Tasks**:
-  - Deployed models using **Streamlit** as .
+  - Deployed models using **Streamlit** as a Frontend/UI.
   - Enabled real-time predictions for each condition.
   - Used **MLflow** for experiment tracking and model versioning.
   - Set up monitoring to detect model drift and degradation.

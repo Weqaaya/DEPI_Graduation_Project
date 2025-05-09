@@ -242,7 +242,7 @@ port = 5000
 
 public_url = ngrok.connect(port)
 
-!mlflow ui --port {port}
+#!mlflow ui --port {port}
 
 from pyngrok import ngrok
 import threading

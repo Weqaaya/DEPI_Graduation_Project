@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746799415161
+current_stage: None
+description: null
+last_updated_timestamp: 1746799415161
+name: KNN_Hypertension_SMOTE
+run_id: d0c3f4fd7d1c4b35b770207d38098a1b
+run_link: null
+source: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/211870921547949340/d0c3f4fd7d1c4b35b770207d38098a1b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/211870921547949340/d0c3f4fd7d1c4b35b770207d38098a1b/artifacts/model
+user_id: null
+version: 3

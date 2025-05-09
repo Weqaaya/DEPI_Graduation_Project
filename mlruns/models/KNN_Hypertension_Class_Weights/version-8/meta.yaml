@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746800803653
+current_stage: None
+description: null
+last_updated_timestamp: 1746800803653
+name: KNN_Hypertension_Class_Weights
+run_id: 1ba59f14baa7462189c76236ef0472dc
+run_link: null
+source: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/211870921547949340/1ba59f14baa7462189c76236ef0472dc/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/211870921547949340/1ba59f14baa7462189c76236ef0472dc/artifacts/model
+user_id: null
+version: 8

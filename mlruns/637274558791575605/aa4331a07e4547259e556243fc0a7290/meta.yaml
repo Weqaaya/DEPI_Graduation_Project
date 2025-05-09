@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/637274558791575605/aa4331a07e4547259e556243fc0a7290/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '637274558791575605'
+lifecycle_stage: active
+run_id: aa4331a07e4547259e556243fc0a7290
+run_name: ANN_Baseline
+run_uuid: aa4331a07e4547259e556243fc0a7290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746804126323
+status: 1
+tags: []
+user_id: d

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/637274558791575605/c6d4d1c9986f4efb8736dc8042452abc/artifacts
+end_time: 1746803632023
+entry_point_name: ''
+experiment_id: '637274558791575605'
+lifecycle_stage: active
+run_id: c6d4d1c9986f4efb8736dc8042452abc
+run_name: SVM_Baseline
+run_uuid: c6d4d1c9986f4efb8736dc8042452abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746803593831
+status: 3
+tags: []
+user_id: d

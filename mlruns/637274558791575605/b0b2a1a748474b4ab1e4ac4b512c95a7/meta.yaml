@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/637274558791575605/b0b2a1a748474b4ab1e4ac4b512c95a7/artifacts
+end_time: 1746803234118
+entry_point_name: ''
+experiment_id: '637274558791575605'
+lifecycle_stage: active
+run_id: b0b2a1a748474b4ab1e4ac4b512c95a7
+run_name: KNN_SMOTE
+run_uuid: b0b2a1a748474b4ab1e4ac4b512c95a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746803223694
+status: 3
+tags: []
+user_id: d

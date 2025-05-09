@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/637274558791575605/4c827247e457405c9d8590b11465156e/artifacts
+end_time: 1746803223686
+entry_point_name: ''
+experiment_id: '637274558791575605'
+lifecycle_stage: active
+run_id: 4c827247e457405c9d8590b11465156e
+run_name: KNN_Class_Weights
+run_uuid: 4c827247e457405c9d8590b11465156e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746803213241
+status: 3
+tags: []
+user_id: d

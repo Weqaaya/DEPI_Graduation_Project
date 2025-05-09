@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/637274558791575605/ac9d5005c9404fe9881d94875f08003e/artifacts
+end_time: 1746804470034
+entry_point_name: ''
+experiment_id: '637274558791575605'
+lifecycle_stage: active
+run_id: ac9d5005c9404fe9881d94875f08003e
+run_name: LR_SMOTE
+run_uuid: ac9d5005c9404fe9881d94875f08003e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746804460932
+status: 3
+tags: []
+user_id: d

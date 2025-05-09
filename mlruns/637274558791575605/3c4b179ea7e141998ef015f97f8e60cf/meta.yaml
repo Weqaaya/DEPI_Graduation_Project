@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/637274558791575605/3c4b179ea7e141998ef015f97f8e60cf/artifacts
+end_time: 1746802465220
+entry_point_name: ''
+experiment_id: '637274558791575605'
+lifecycle_stage: active
+run_id: 3c4b179ea7e141998ef015f97f8e60cf
+run_name: RF_Class_Weights
+run_uuid: 3c4b179ea7e141998ef015f97f8e60cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746802455447
+status: 3
+tags: []
+user_id: d

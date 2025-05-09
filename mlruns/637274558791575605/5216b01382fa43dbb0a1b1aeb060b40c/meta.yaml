@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/637274558791575605/5216b01382fa43dbb0a1b1aeb060b40c/artifacts
+end_time: 1746802475565
+entry_point_name: ''
+experiment_id: '637274558791575605'
+lifecycle_stage: active
+run_id: 5216b01382fa43dbb0a1b1aeb060b40c
+run_name: RF_SMOTE
+run_uuid: 5216b01382fa43dbb0a1b1aeb060b40c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746802465233
+status: 3
+tags: []
+user_id: d

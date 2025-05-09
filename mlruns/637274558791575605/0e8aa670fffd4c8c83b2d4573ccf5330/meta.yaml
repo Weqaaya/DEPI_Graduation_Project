@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/637274558791575605/0e8aa670fffd4c8c83b2d4573ccf5330/artifacts
+end_time: 1746803674019
+entry_point_name: ''
+experiment_id: '637274558791575605'
+lifecycle_stage: active
+run_id: 0e8aa670fffd4c8c83b2d4573ccf5330
+run_name: SVM_Class_Weights
+run_uuid: 0e8aa670fffd4c8c83b2d4573ccf5330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746803632033
+status: 3
+tags: []
+user_id: d

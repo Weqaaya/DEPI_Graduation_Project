@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746798980907
+current_stage: None
+description: null
+last_updated_timestamp: 1746798980907
+name: KNN_Hypertension_Baseline
+run_id: b30ce218aa3a4eaabde692c5bbedc9bb
+run_link: null
+source: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/211870921547949340/b30ce218aa3a4eaabde692c5bbedc9bb/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///E:/AI%20%26%20Data_Science/DEPI/Project/DEPI_Graduation_Project/mlruns/211870921547949340/b30ce218aa3a4eaabde692c5bbedc9bb/artifacts/model
+user_id: null
+version: 1

@@ -79,7 +79,7 @@ Our team of six collaborated in pairs, with each pair focusing on one specific p
     - Hypertension
     - Stroke
     - Diabetes
-  - Models used include **Logistic Regression**, **Random Forest**,**K-Nearst Neighbors (KNN)**, **Artificial Neural Network (ANN)**,and **Support Vector Machine (SVM)** depending on the dataset.
+  - Models used include **Logistic Regression**, **Random Forest**,**K-Nearst Neighbors (KNN)**, **Artificial Neural Network (ANN)**, **Xgboost** , and **Support Vector Machine (SVM)** depending on the dataset.
   - Applied cross-validation, hyperparameter tuning, and evaluation techniques.
 
 - **Metrics Used**:
@@ -128,7 +128,7 @@ Our team of six collaborated in pairs, with each pair focusing on one specific p
 | **1** | EDA Reports, Cleaned Datasets |
 | **2** | Analytical Insights, Visualizations |
 | **3** | Trained Models for Hypertension, Stroke, Diabetes |
-| **4** | REST APIs, MLOps Setup, Model Monitoring |
+| **4** | Streamlit, MLOps Setup, Model Monitoring |
 | **5** | Final Report, Presentation Slides |
 
 ---
